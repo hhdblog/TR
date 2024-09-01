@@ -3,7 +3,7 @@
 # * » GENEL « * #
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://hhdblog.github.io/TR/logo/trt1.png" group-title="GENEL",TRT 1
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://hhdblog.github.io/TR/logo/trt2.png" group-title="GENEL",TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
@@ -50,4 +50,7 @@ http://stream.tvcdn.net/eglence/dmax.m3u8
 # * » CANLI MAC « * #
 
 #EXTINF:-1 tvg-name="S SPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="SSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="BELGESEL",S SPORT 1
+https://berlin.trgoalshls12.shop/yayinss.m3u8
+
+#EXTINF:-1 tvg-name="S SPORT 1x" tvg-language="Turkish" tvg-country="TR" tvg-id="SSPORT_1x" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="BELGESEL",S SPORT 1x
 https://berlin.trgoalshls12.shop/yayinss.m3u8
