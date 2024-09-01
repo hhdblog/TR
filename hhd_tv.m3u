@@ -27,7 +27,7 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 
 #EXTINF:-1 tvg-name="NOW" tvg-language="Turkish" tvg-country="TR" tvg-id="NOW" tvg-logo="https://hhdblog.github.io/TR/logo/now.png" group-title="GENEL",NOW
-https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live.m3u8 http://stream.tvcdn.net/ulusal/now-tv.m3u8
+https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live.m3u8, http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BEYAZ_TV" tvg-logo="https://hhdblog.github.io/TR/logo/beyaz.png" group-title="GENEL",BEYAZ TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
@@ -36,7 +36,7 @@ http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_BELGESEL" tvg-logo="https://hhdblog.github.io/TR/logo/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
-http://stream.tvcdn.net/ulusal/trt-belgesel.m3u8
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" tvg-language="Turkish" tvg-country="TR" tvg-id="DMAX" tvg-logo="https://hhdblog.github.io/TR/logo/dmax.png" group-title="BELGESEL",DMAX
-http://stream.tvcdn.net/ulusal/dmax.m3u8
+http://stream.tvcdn.net/eglence/dmax.m3u8
