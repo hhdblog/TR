@@ -3,22 +3,22 @@
 # * » GENEL « * #
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://hhdblog.github.io/TR/logo/trt1.png" group-title="GENEL",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://hhdblog.github.io/TR/logo/trt2.png" group-title="GENEL",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="ATV" tvg-logo="https://hhdblog.github.io/TR/logo/atv.png" group-title="GENEL",ATV
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=Vm6IK6v9qRSBvcRhVZwnIg&e=1725271817
+https://trkvz.daioncdn.net/atv/atv_720p.m3u8?e=1725278107&st=qtjkAC4ah-zLcnhsSRtQWw&sid=6pg2v3bsynu2&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SHOW_TV" tvg-logo="https://hhdblog.github.io/TR/logo/show.png" group-title="GENEL",SHOW TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=6pg2yvr50sia&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
 #EXTINF:-1 tvg-name="STAR TV" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR_TV" tvg-logo="https://hhdblog.github.io/TR/logo/star.png" group-title="GENEL",STAR TV
-https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=6pg3295jiixn&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="KANAL_D" tvg-logo="https://hhdblog.github.io/TR/logo/kanald.png" group-title="GENEL",KANAL D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7" tvg-language="Turkish" tvg-country="TR" tvg-id="KANAL_7" tvg-logo="https://hhdblog.github.io/TR/logo/kanal7.png" group-title="GENEL",KANAL 7
 https://kanal7.daioncdn.net/kanal7/kanal7_360p.m3u8?&sid=6pfv4ze4b27t&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
