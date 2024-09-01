@@ -21,7 +21,7 @@ https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-2
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-name="KANAL 7" tvg-language="Turkish" tvg-country="TR" tvg-id="KANAL_7" tvg-logo="https://hhdblog.github.io/TR/logo/kanal7.png" group-title="GENEL",KANAL 7
-https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+https://kanal7.daioncdn.net/kanal7/kanal7_360p.m3u8?&sid=6pfv4ze4b27t&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TV_8" tvg-logo="https://hhdblog.github.io/TR/logo/tv8.png" group-title="GENEL",TV 8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
