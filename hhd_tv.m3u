@@ -26,8 +26,8 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TV_8" tvg-logo="https://hhdblog.github.io/TR/logo/tv8.png" group-title="GENEL",TV 8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 
-#EXTINF:-1 tvg-name="NOW" tvg-language="Turkish" tvg-country="TR" tvg-id="NOW" tvg-logo="https://hhdblog.github.io/TR/logo/nowx.png" group-title="GENEL",NOW
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
+#EXTINF:-1 tvg-name="NOW" tvg-language="Turkish" tvg-country="TR" tvg-id="NOW" tvg-logo="https://hhdblog.github.io/TR/logo/now.png" group-title="GENEL",NOW
+https://nowtvdvr.blutv.com/blutv_nowtv_dvr/live.m3u8 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BEYAZ_TV" tvg-logo="https://hhdblog.github.io/TR/logo/beyaz.png" group-title="GENEL",BEYAZ TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
