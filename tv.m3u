@@ -801,3 +801,7 @@ http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 http://stream.tvcdn.net/azerbaycan/vilayet-tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Azerbaycan",Xezer TV
 http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
+#EXTINF:-1 tvg-id="" group-title="RADYO",TRT FM
+https://radio-trtfm.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="RADYO",RADYO 7
+http://radyo7hls.radyotvonline.net/radyo7/radyo7_test.stream/playlist.m3u8
