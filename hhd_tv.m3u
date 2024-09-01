@@ -59,7 +59,7 @@ https://berlin.trgoalshls12.shop/yayinss.m3u8
 # * » RADYOLAR « * #
 
 #EXTINF:-1 tvg-name="TRT FM" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_FM" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",TRT FM
-https://trt.radyotvonline.net/trtfm
+https://radio-trtfm.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="RADYO 7" tvg-language="Turkish" tvg-country="TR" tvg-id="RADYO_7" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",RADYO 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
