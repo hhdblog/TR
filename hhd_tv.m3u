@@ -2,26 +2,41 @@
 
 # * » GENEL « * #
 
-#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://hhdblog.github.io/TR/logo/trt1.png" group-title="Genel",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://hhdblog.github.io/TR/logo/trt1.png" group-title="GENEL",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 
-#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://hhdblog.github.io/TR/logo/trt2.png" group-title="Genel",TRT 2
+#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://hhdblog.github.io/TR/logo/trt2.png" group-title="GENEL",TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 
-#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="ATV" tvg-logo="https://hhdblog.github.io/TR/logo/atv.png" group-title="Genel",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="ATV" tvg-logo="https://hhdblog.github.io/TR/logo/atv.png" group-title="GENEL",ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
-#EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SHOW_TV" tvg-logo="https://hhdblog.github.io/TR/logo/show.png" group-title="Genel",SHOW TV
+#EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SHOW_TV" tvg-logo="https://hhdblog.github.io/TR/logo/show.png" group-title="GENEL",SHOW TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 
-#EXTINF:-1 tvg-name="STAR TV" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR_TV" tvg-logo="https://hhdblog.github.io/TR/logo/star.png" group-title="Genel",STAR TV
+#EXTINF:-1 tvg-name="STAR TV" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR_TV" tvg-logo="https://hhdblog.github.io/TR/logo/star.png" group-title="GENEL",STAR TV
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 
-#EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="KANAL_D" tvg-logo="https://hhdblog.github.io/TR/logo/kanald.png" group-title="Genel",KANAL D
+#EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="KANAL_D" tvg-logo="https://hhdblog.github.io/TR/logo/kanald.png" group-title="GENEL",KANAL D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 
-#EXTINF:-1 tvg-name="KANAL 7" tvg-language="Turkish" tvg-country="TR" tvg-id="KANAL_7" tvg-logo="https://hhdblog.github.io/TR/logo/kanal7.png" group-title="Genel",KANAL 7
+#EXTINF:-1 tvg-name="KANAL 7" tvg-language="Turkish" tvg-country="TR" tvg-id="KANAL_7" tvg-logo="https://hhdblog.github.io/TR/logo/kanal7.png" group-title="GENEL",KANAL 7
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 
-#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TV_8" tvg-logo="https://hhdblog.github.io/TR/logo/tv8.png" group-title="Genel",TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TV_8" tvg-logo="https://hhdblog.github.io/TR/logo/tv8.png" group-title="GENEL",TV 8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
+
+#EXTINF:-1 tvg-name="NOW" tvg-language="Turkish" tvg-country="TR" tvg-id="NOW" tvg-logo="https://hhdblog.github.io/TR/logo/nowx.png" group-title="GENEL",NOW
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BEYAZ_TV" tvg-logo="https://hhdblog.github.io/TR/logo/beyaz.png" group-title="GENEL",BEYAZ TV
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+
+#EXTINF:-1 tvg-name="360" tvg-language="Turkish" tvg-country="TR" tvg-id="360" tvg-logo="https://hhdblog.github.io/TR/logo/360.png" group-title="GENEL",360
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
+
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_BELGESEL" tvg-logo="https://hhdblog.github.io/TR/logo/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
+http://stream.tvcdn.net/ulusal/trt-belgesel.m3u8
+
+#EXTINF:-1 tvg-name="DMAX" tvg-language="Turkish" tvg-country="TR" tvg-id="DMAX" tvg-logo="https://hhdblog.github.io/TR/logo/dmax.png" group-title="BELGESEL",DMAX
+http://stream.tvcdn.net/ulusal/dmax.m3u8
