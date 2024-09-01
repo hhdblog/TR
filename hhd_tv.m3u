@@ -6,13 +6,13 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://hhdblog.github.io/TR/logo/trt2.png" group-title="GENEL",TRT 2
-http://stream.tvcdn.net/eglence/trt-2.m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="ATV" tvg-logo="https://hhdblog.github.io/TR/logo/atv.png" group-title="GENEL",ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
+https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=Vm6IK6v9qRSBvcRhVZwnIg&e=1725271817
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SHOW_TV" tvg-logo="https://hhdblog.github.io/TR/logo/show.png" group-title="GENEL",SHOW TV
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
 
 #EXTINF:-1 tvg-name="STAR TV" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR_TV" tvg-logo="https://hhdblog.github.io/TR/logo/star.png" group-title="GENEL",STAR TV
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
