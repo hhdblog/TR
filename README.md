@@ -1,2 +1,2 @@
 # TR
-TV RADYO
+TV RADYO M3U
