@@ -416,7 +416,9 @@ https://ythls.kekikakademi.org/youtube/channel/UCtkp8YehDHBNJ63CS9xwIQg.m3u8
 #EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
 https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="RADYO",TRT FM
+# * » Radyolar « * #
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/hhdblog/TR/edit/main/radio_icon.png" group-title="RADYO",TRT FM
 https://radio-trtfm.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="RADYO",RADYO 7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/hhdblog/TR/edit/main/radio_icon.png" group-title="RADYO",RADYO 7
 http://radyo7hls.radyotvonline.net/radyo7/radyo7_test.stream/playlist.m3u8
