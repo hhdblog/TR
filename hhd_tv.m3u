@@ -85,6 +85,24 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="A_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/ahaber.png" group-title="HABER",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=QlFS8AUdglWT5bkClE6jOw&e=1725354184
 
+#EXTINF:-1 tvg-name="24 TV" tvg-language="Turkish" tvg-country="TR" tvg-id="24_TV" tvg-logo="https://hhdblog.github.io/TR/logo/24.png" group-title="HABER",24 TV
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
+#EXTINF:-1 tvg-name="ÜLKE TV" tvg-language="Turkish" tvg-country="TR" tvg-id="ULKE_TV" tvg-logo="https://hhdblog.github.io/TR/logo/ulke.png" group-title="HABER",ÜLKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVNET" tvg-language="Turkish" tvg-country="TR" tvg-id="TVNET" tvg-logo="https://hhdblog.github.io/TR/logo/tvnet.png" group-title="HABER",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BLOOMBERGHT" tvg-language="Turkish" tvg-country="TR" tvg-id="BLOOMBERGHT" tvg-logo="https://hhdblog.github.io/TR/logo/bloomberght.png" group-title="HABER",BLOOMBERGHT
+https://ciner-live.ercdn.net/bloomberghtmobil/bloomberghtmobil.m3u8?e=1725317335&st=efQSU0mkvrlisB029UxGqQ&tv=1&ce=1
+
+#EXTINF:-1 tvg-name="EKOTÜRK" tvg-language="Turkish" tvg-country="TR" tvg-id="EKOTURK" tvg-logo="https://hhdblog.github.io/TR/logo/ekoturk.png" group-title="HABER",EKOTÜRK
+https://cdn401.canlitv.team/ekoturktv.m3u8?tkn=CZOHk2PhMGXedSLGmWUo2A&tms=1725325012&hst=tv.canlitv.team&ip=188.132.189.187
+
+#EXTINF:-1 tvg-name="CNBC-E" tvg-language="Turkish" tvg-country="TR" tvg-id="CNBC_E" tvg-logo="https://hhdblog.github.io/TR/logo/cnbce.png" group-title="HABER",CNBC-E
+https://cnbc-e-live.ercdn.net/cnbce/cnbce_720p.m3u8?st=wt0K3JFFsnncK4ci84QIFQ&e=1725346894
+
 
 
 # * » CANLI MAC « * #
