@@ -61,6 +61,9 @@ https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 # * » HABER « * #
 
+#EXTINF:-1 tvg-name="TRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/trthaber.png" group-title="HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="NTV" tvg-logo="https://hhdblog.github.io/TR/logo/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=6pj5w8djbss5&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 
@@ -69,6 +72,18 @@ https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-b
 
 #EXTINF:-1 tvg-name="CNNTURK" tvg-language="Turkish" tvg-country="TR" tvg-id="CNNTURK" tvg-logo="https://hhdblog.github.io/TR/logo/cnnturk.png" group-title="HABER",CNNTURK
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=w4a8_9icQUrFs4xVxZhvNw&e=1725318209
+
+#EXTINF:-1 tvg-name="TGRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="TGRT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/tgrthaber.png" group-title="HABER",TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-name="TV100" tvg-language="Turkish" tvg-country="TR" tvg-id="TV100" tvg-logo="https://hhdblog.github.io/TR/logo/tv100.png" group-title="HABER",TV100
+https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
+
+#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-language="Turkish" tvg-country="TR" tvg-id="HABER_GLOBAL" tvg-logo="https://hhdblog.github.io/TR/logo/haberglobal.png" group-title="HABER",HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="A_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/ahaber.png" group-title="HABER",A HABER
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=QlFS8AUdglWT5bkClE6jOw&e=1725354184
 
 
 
