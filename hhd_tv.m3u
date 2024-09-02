@@ -105,6 +105,16 @@ https://cnbc-e-live.ercdn.net/cnbce/cnbce_720p.m3u8?st=wt0K3JFFsnncK4ci84QIFQ&e=
 
 
 
+# * » SPOR « * #
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/trtspor.png" group-title="SPOR",TRT SPOR
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor
+
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_SPOR_YILDIZ" tvg-logo="https://hhdblog.github.io/TR/logo/trtsporyildiz.png" group-title="SPOR",TRT SPOR YILDIZ
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+
+
+
 # * » CANLI MAC « * #
 
 #EXTINF:-1 tvg-name="S SPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="SSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="CANLI MAÇ",S SPORT 1
