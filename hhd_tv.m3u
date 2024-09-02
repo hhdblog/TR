@@ -67,10 +67,10 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="NTV" tvg-logo="https://hhdblog.github.io/TR/logo/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=6pj5w8djbss5&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 
-#EXTINF:-1 tvg-name="HABERTURK" tvg-language="Turkish" tvg-country="TR" tvg-id="HABERTURK" tvg-logo="https://hhdblog.github.io/TR/logo/haberturk.png" group-title="HABER",HABERTURK
+#EXTINF:-1 tvg-name="HABERTÜRK" tvg-language="Turkish" tvg-country="TR" tvg-id="HABERTURK" tvg-logo="https://hhdblog.github.io/TR/logo/haberturk.png" group-title="HABER",HABERTÜRK
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 
-#EXTINF:-1 tvg-name="CNNTURK" tvg-language="Turkish" tvg-country="TR" tvg-id="CNNTURK" tvg-logo="https://hhdblog.github.io/TR/logo/cnnturk.png" group-title="HABER",CNNTURK
+#EXTINF:-1 tvg-name="CNNTÜRK" tvg-language="Turkish" tvg-country="TR" tvg-id="CNNTURK" tvg-logo="https://hhdblog.github.io/TR/logo/cnnturk.png" group-title="HABER",CNNTÜRK
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=w4a8_9icQUrFs4xVxZhvNw&e=1725318209
 
 #EXTINF:-1 tvg-name="TGRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="TGRT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/tgrthaber.png" group-title="HABER",TGRT HABER
