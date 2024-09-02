@@ -51,6 +51,12 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-language="Turkish" tvg-country="TR" tvg-id="DMAX" tvg-logo="https://hhdblog.github.io/TR/logo/dmax.png" group-title="BELGESEL",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=UVhzZ2lDZnhFYldJTnJzZXpzcTRYNjlHRGI4bnlIaHZpM1NibjQ5OEM5QT0=&sid=6pg46dv64tpz&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 
+#EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="TLC" tvg-logo="https://hhdblog.github.io/TR/logo/tlc.png" group-title="BELGESEL",TLC
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=UGFxbDRObUFOdStuMEVrU2M2Ylo4SnArcy9UTE1UNlU4TCtRVmtDcktjdz0=&sid=6pj3zuv842cd&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
+
+#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-language="Turkish" tvg-country="TR" tvg-id="TGRT_BELGESEL" tvg-logo="https://hhdblog.github.io/TR/logo/tgrtbelgesel.png" group-title="BELGESEL",TGRT BELGESEL
+https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
+
 
 
 # * » CANLI MAC « * #
@@ -61,7 +67,7 @@ https://osaka.trgoalshls13.shop/yayinss.m3u8
 #EXTINF:-1 tvg-name="S SPORT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="SSPORT_2" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="CANLI MAÇ",S SPORT 2
 https://osaka.trgoalshls13.shop/yayinss2.m3u8
 
-#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="EUROSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/eurosport1.png" group-title="RADYO",EUROSPORT 1
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="EUROSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/eurosport1.png" group-title="CANLI MAÇ",EUROSPORT 1
 https://osaka.trgoalshls13.shop/yayineu1.m3u8
 
 
