@@ -111,7 +111,7 @@ https://cnbc-e-live.ercdn.net/cnbce/cnbce_720p.m3u8?st=wt0K3JFFsnncK4ci84QIFQ&e=
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor
 
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_SPOR_YILDIZ" tvg-logo="https://hhdblog.github.io/TR/logo/trtsporyildiz.png" group-title="SPOR",TRT SPOR YILDIZ
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+https://trt.daioncdn.net/trtspor-yildiz/master_480p.m3u8?platform=trtspor&sid=6pjbsq8fpy2m&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2
 
 
 
