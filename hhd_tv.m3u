@@ -59,6 +59,19 @@ https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 
 
+# * » HABER « * #
+
+#EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="NTV" tvg-logo="https://hhdblog.github.io/TR/logo/ntv.png" group-title="HABER",NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=6pj5w8djbss5&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
+
+#EXTINF:-1 tvg-name="HABERTURK" tvg-language="Turkish" tvg-country="TR" tvg-id="HABERTURK" tvg-logo="https://hhdblog.github.io/TR/logo/haberturk.png" group-title="HABER",HABERTURK
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+
+#EXTINF:-1 tvg-name="CNNTURK" tvg-language="Turkish" tvg-country="TR" tvg-id="CNNTURK" tvg-logo="https://hhdblog.github.io/TR/logo/cnnturk.png" group-title="HABER",CNNTURK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=w4a8_9icQUrFs4xVxZhvNw&e=1725318209
+
+
+
 # * » CANLI MAC « * #
 
 #EXTINF:-1 tvg-name="S SPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="SSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="CANLI MAÇ",S SPORT 1
@@ -72,6 +85,7 @@ https://osaka.trgoalshls13.shop/yayineu1.m3u8
 
 #EXTINF:-1 tvg-name="SELCUKSPORTS 1" tvg-language="Turkish" tvg-country="TR" tvg-id="SELCUKSPORTS_1" tvg-logo="https://hhdblog.github.io/TR/logo/selcuk.png" group-title="CANLI MAÇ",SELCUKSPORTS 1
 https://otto.19bc3725918b8e43.shop/selcuksports/www.selcuksportshd1329.xyz/601/playlist.m3u8
+
 
 
 # * » RADYOLAR « * #
