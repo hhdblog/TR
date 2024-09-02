@@ -35,6 +35,13 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=6pg3yol3i6h3&app=fcd
 #EXTINF:-1 tvg-name="360" tvg-language="Turkish" tvg-country="TR" tvg-id="360" tvg-logo="https://hhdblog.github.io/TR/logo/360.png" group-title="GENEL",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
+#EXTINF:-1 tvg-name="TEVE 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TEVE_2" tvg-logo="https://hhdblog.github.io/TR/logo/teve2.png" group-title="GENEL",TEVE 2
+https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+
+#EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="A2" tvg-logo="https://hhdblog.github.io/TR/logo/a2.png" group-title="GENEL",A2
+https://c.fulltvizle.com/a2/index.m3u8
+
+
 
 # * » BELGESEL « * #
 
