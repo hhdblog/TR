@@ -61,7 +61,7 @@ https://osaka.trgoalshls13.shop/yayinss.m3u8
 #EXTINF:-1 tvg-name="S SPORT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="SSPORT_2" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="CANLI MAÇ",S SPORT 2
 https://osaka.trgoalshls13.shop/yayinss2.m3u8
 
-#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="EUROSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/eusport1.png" group-title="RADYO",EUROSPORT 1
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="EUROSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/eurosport1.png" group-title="RADYO",EUROSPORT 1
 https://osaka.trgoalshls13.shop/yayineu1.m3u8
 
 
@@ -74,9 +74,3 @@ https://radio-trtfm.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="RADYO 7" tvg-language="Turkish" tvg-country="TR" tvg-id="RADYO_7" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",RADYO 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 
-
-
-# * » TWITCH « * #
-
-#EXTINF:-1 tvg-name="ARMUTTV" tvg-language="Turkish" tvg-country="TR" tvg-id="ARMUTTV" tvg-logo="https://hhdblog.github.io/TR/logo/armuttv.png" group-title="RADYO",ARMUTTV
-https://usher.ttvnw.net/api/channel/hls/armuttv.m3u8?acmb=e30%3D&allow_source=true&browser_family=firefox&browser_version=129.0&cdm=wv&fast_bread=true&os_name=macOS&os_version=10.15&p=9637906&platform=web&play_session_id=cf2a9746913adb8f1636e8642c8a3e94&player_backend=mediaplayer&player_version=1.32.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=41e0ae758564f98023da86a4419c600d2cee312a&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22armuttv%22%2C%22channel_id%22%3A112898023%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2239ssLqQd7f7QHXiPwcFiuVdTK41Ynh1r%22%2C%22expires%22%3A1725301787%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3A160512555%2C%22user_ip%22%3A%22188.132.189.187%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
