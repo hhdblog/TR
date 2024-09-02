@@ -70,6 +70,8 @@ https://osaka.trgoalshls13.shop/yayinss2.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="EUROSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/eurosport1.png" group-title="CANLI MAÇ",EUROSPORT 1
 https://osaka.trgoalshls13.shop/yayineu1.m3u8
 
+#EXTINF:-1 tvg-name="SELCUKSPORTS 1" tvg-language="Turkish" tvg-country="TR" tvg-id="SELCUKSPORTS_1" tvg-logo="https://hhdblog.github.io/TR/logo/selcuk.png" group-title="CANLI MAÇ",SELCUKSPORTS 1
+https://otto.19bc3725918b8e43.shop/selcuksports/www.selcuksportshd1329.xyz/601/playlist.m3u8
 
 
 # * » RADYOLAR « * #
