@@ -70,3 +70,10 @@ https://radio-trtfm.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="RADYO 7" tvg-language="Turkish" tvg-country="TR" tvg-id="RADYO_7" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",RADYO 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
+
+
+
+# * » TWITCH « * #
+
+#EXTINF:-1 tvg-name="ARMUTTV" tvg-language="Turkish" tvg-country="TR" tvg-id="ARMUTTV" tvg-logo="https://hhdblog.github.io/TR/logo/armuttv.png" group-title="RADYO",ARMUTTV
+https://video.twimg.com/ext_tw_video/1358908871276957698/pu/pl/1280x720/oMgLOgzGNhMTV7o6.m3u8
