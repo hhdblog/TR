@@ -113,6 +113,21 @@ https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_SPOR_YILDIZ" tvg-logo="https://hhdblog.github.io/TR/logo/trtsporyildiz.png" group-title="SPOR",TRT SPOR YILDIZ
 https://trt.daioncdn.net/trtspor-yildiz/master_480p.m3u8?platform=trtspor&sid=6pjbsq8fpy2m&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2
 
+#EXTINF:-1 tvg-name="A SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="A_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/aspor.png" group-title="SPOR",A SPOR
+https://trt.daioncdn.net/trtspor-yildiz/master_480p.m3u8?platform=trtspor&sid=6pjbsq8fpy2m&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2
+
+#EXTINF:-1 tvg-name="BEIN SPORT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="BEIN_SPORT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/beinsporthaber.png" group-title="SPOR",BEIN SPORT HABER
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+
+#EXTINF:-1 tvg-name="SPORTSTV" tvg-language="Turkish" tvg-country="TR" tvg-id="SPORTSTV" tvg-logo="https://hhdblog.github.io/TR/logo/sportstv.png" group-title="SPOR",SPORTSTV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-name="TİVİBU SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TİVİBU_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/tivibuspor.png" group-title="SPOR",TİVİBU SPOR
+https://ecanlitv3.etvserver.com/tvbu.m3u8?tkn=JBhLFxpLWaqsC3GtvBB68g&tms=1725379893
+
+#EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR" tvg-id="FB _TV" tvg-logo="https://hhdblog.github.io/TR/logo/fbtv.png" group-title="SPOR",FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+
 
 
 # * » CANLI MAC « * #
