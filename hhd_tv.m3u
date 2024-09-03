@@ -2,155 +2,155 @@
 
 # * » GENEL « * #
 
-#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://hhdblog.github.io/TR/logo/trt1.png" group-title="GENEL",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT_1" tvg-logo="https://hhdblog.github.io/TR/logo/trt1.png" group-title="GENEL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://hhdblog.github.io/TR/logo/trt2.png" group-title="GENEL",TRT 2
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT_2" tvg-logo="https://hhdblog.github.io/TR/logo/trt2.png" group-title="GENEL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="ATV" tvg-logo="https://hhdblog.github.io/TR/logo/atv.png" group-title="GENEL",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV" tvg-logo="https://hhdblog.github.io/TR/logo/atv.png" group-title="GENEL",ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
-#EXTINF:-1 tvg-name="SHOW TV" tvg-language="Turkish" tvg-country="TR" tvg-id="SHOW_TV" tvg-logo="https://hhdblog.github.io/TR/logo/show.png" group-title="GENEL",SHOW TV
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOW_TV" tvg-logo="https://hhdblog.github.io/TR/logo/show.png" group-title="GENEL",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=6pg2yvr50sia&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
-#EXTINF:-1 tvg-name="STAR TV" tvg-language="Turkish" tvg-country="TR" tvg-id="STAR_TV" tvg-logo="https://hhdblog.github.io/TR/logo/star.png" group-title="GENEL",STAR TV
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="STAR_TV" tvg-logo="https://hhdblog.github.io/TR/logo/star.png" group-title="GENEL",STAR TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=6pg3295jiixn&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
-#EXTINF:-1 tvg-name="KANAL D" tvg-language="Turkish" tvg-country="TR" tvg-id="KANAL_D" tvg-logo="https://hhdblog.github.io/TR/logo/kanald.png" group-title="GENEL",KANAL D
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KANAL_D" tvg-logo="https://hhdblog.github.io/TR/logo/kanald.png" group-title="GENEL",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=6pg3rp3b0fij&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
-#EXTINF:-1 tvg-name="KANAL 7" tvg-language="Turkish" tvg-country="TR" tvg-id="KANAL_7" tvg-logo="https://hhdblog.github.io/TR/logo/kanal7.png" group-title="GENEL",KANAL 7
+#EXTINF:-1 tvg-name="KANAL 7" tvg-id="KANAL_7" tvg-logo="https://hhdblog.github.io/TR/logo/kanal7.png" group-title="GENEL",KANAL 7
 https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=6pfv4ze4b27t&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
-#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TV_8" tvg-logo="https://hhdblog.github.io/TR/logo/tv8.png" group-title="GENEL",TV 8
+#EXTINF:-1 tvg-name="TV 8" tvg-id="TV_8" tvg-logo="https://hhdblog.github.io/TR/logo/tv8.png" group-title="GENEL",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=6pg3vlewe94a&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-name="NOW" tvg-language="Turkish" tvg-country="TR" tvg-id="NOW" tvg-logo="https://hhdblog.github.io/TR/logo/now.png" group-title="GENEL",NOW
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW" tvg-logo="https://hhdblog.github.io/TR/logo/now.png" group-title="GENEL",NOW
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1725328434&st=V_sAOVRBPKrLLS2aGG4u0g
 
-#EXTINF:-1 tvg-name="BEYAZ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BEYAZ_TV" tvg-logo="https://hhdblog.github.io/TR/logo/beyaz.png" group-title="GENEL",BEYAZ TV
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BEYAZ_TV" tvg-logo="https://hhdblog.github.io/TR/logo/beyaz.png" group-title="GENEL",BEYAZ TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=6pg3yol3i6h3&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 
-#EXTINF:-1 tvg-name="360" tvg-language="Turkish" tvg-country="TR" tvg-id="360" tvg-logo="https://hhdblog.github.io/TR/logo/360.png" group-title="GENEL",360
+#EXTINF:-1 tvg-name="360" tvg-id="360" tvg-logo="https://hhdblog.github.io/TR/logo/360.png" group-title="GENEL",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-name="TEVE 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TEVE_2" tvg-logo="https://hhdblog.github.io/TR/logo/teve2.png" group-title="GENEL",TEVE 2
+#EXTINF:-1 tvg-name="TEVE 2" tvg-id="TEVE_2" tvg-logo="https://hhdblog.github.io/TR/logo/teve2.png" group-title="GENEL",TEVE 2
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 
-#EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="A2" tvg-logo="https://hhdblog.github.io/TR/logo/a2.png" group-title="GENEL",A2
+#EXTINF:-1 tvg-name="A2" tvg-id="A2" tvg-logo="https://hhdblog.github.io/TR/logo/a2.png" group-title="GENEL",A2
 https://c.fulltvizle.com/a2/index.m3u8
 
 
 
 # * » BELGESEL « * #
 
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_BELGESEL" tvg-logo="https://hhdblog.github.io/TR/logo/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT_BELGESEL" tvg-logo="https://hhdblog.github.io/TR/logo/trtbelgesel.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="DMAX" tvg-language="Turkish" tvg-country="TR" tvg-id="DMAX" tvg-logo="https://hhdblog.github.io/TR/logo/dmax.png" group-title="BELGESEL",DMAX
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX" tvg-logo="https://hhdblog.github.io/TR/logo/dmax.png" group-title="BELGESEL",DMAX
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=UVhzZ2lDZnhFYldJTnJzZXpzcTRYNjlHRGI4bnlIaHZpM1NibjQ5OEM5QT0=&sid=6pg46dv64tpz&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 
-#EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="TLC" tvg-logo="https://hhdblog.github.io/TR/logo/tlc.png" group-title="BELGESEL",TLC
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC" tvg-logo="https://hhdblog.github.io/TR/logo/tlc.png" group-title="BELGESEL",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=UGFxbDRObUFOdStuMEVrU2M2Ylo4SnArcy9UTE1UNlU4TCtRVmtDcktjdz0=&sid=6pj3zuv842cd&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 
-#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-language="Turkish" tvg-country="TR" tvg-id="TGRT_BELGESEL" tvg-logo="https://hhdblog.github.io/TR/logo/tgrtbelgesel.png" group-title="BELGESEL",TGRT BELGESEL
+#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT_BELGESEL" tvg-logo="https://hhdblog.github.io/TR/logo/tgrtbelgesel.png" group-title="BELGESEL",TGRT BELGESEL
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 
 
 # * » HABER « * #
 
-#EXTINF:-1 tvg-name="TRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/trthaber.png" group-title="HABER",TRT HABER
+#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/trthaber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="NTV" tvg-logo="https://hhdblog.github.io/TR/logo/ntv.png" group-title="HABER",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV" tvg-logo="https://hhdblog.github.io/TR/logo/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=6pj5w8djbss5&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
 
-#EXTINF:-1 tvg-name="HABERTÜRK" tvg-language="Turkish" tvg-country="TR" tvg-id="HABERTURK" tvg-logo="https://hhdblog.github.io/TR/logo/haberturk.png" group-title="HABER",HABERTÜRK
+#EXTINF:-1 tvg-name="HABERTURK" tvg-id="HABERTURK" tvg-logo="https://hhdblog.github.io/TR/logo/haberturk.png" group-title="HABER",HABERTURK
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 
-#EXTINF:-1 tvg-name="CNNTÜRK" tvg-language="Turkish" tvg-country="TR" tvg-id="CNNTURK" tvg-logo="https://hhdblog.github.io/TR/logo/cnnturk.png" group-title="HABER",CNNTÜRK
+#EXTINF:-1 tvg-name="CNNTURK" tvg-id="CNNTURK" tvg-logo="https://hhdblog.github.io/TR/logo/cnnturk.png" group-title="HABER",CNNTURK
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=w4a8_9icQUrFs4xVxZhvNw&e=1725318209
 
-#EXTINF:-1 tvg-name="TGRT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="TGRT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/tgrthaber.png" group-title="HABER",TGRT HABER
+#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="TGRT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/tgrthaber.png" group-title="HABER",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-name="TV100" tvg-language="Turkish" tvg-country="TR" tvg-id="TV100" tvg-logo="https://hhdblog.github.io/TR/logo/tv100.png" group-title="HABER",TV100
+#EXTINF:-1 tvg-name="TV100" tvg-id="TV100" tvg-logo="https://hhdblog.github.io/TR/logo/tv100.png" group-title="HABER",TV100
 https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
 
-#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-language="Turkish" tvg-country="TR" tvg-id="HABER_GLOBAL" tvg-logo="https://hhdblog.github.io/TR/logo/haberglobal.png" group-title="HABER",HABER GLOBAL
+#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HABER_GLOBAL" tvg-logo="https://hhdblog.github.io/TR/logo/haberglobal.png" group-title="HABER",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
-#EXTINF:-1 tvg-name="A HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="A_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/ahaber.png" group-title="HABER",A HABER
+#EXTINF:-1 tvg-name="A HABER" tvg-id="A_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/ahaber.png" group-title="HABER",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=QlFS8AUdglWT5bkClE6jOw&e=1725354184
 
-#EXTINF:-1 tvg-name="24 TV" tvg-language="Turkish" tvg-country="TR" tvg-id="24_TV" tvg-logo="https://hhdblog.github.io/TR/logo/24.png" group-title="HABER",24 TV
+#EXTINF:-1 tvg-name="24 TV" tvg-id="24_TV" tvg-logo="https://hhdblog.github.io/TR/logo/24.png" group-title="HABER",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 
-#EXTINF:-1 tvg-name="ÜLKE TV" tvg-language="Turkish" tvg-country="TR" tvg-id="ULKE_TV" tvg-logo="https://hhdblog.github.io/TR/logo/ulke.png" group-title="HABER",ÜLKE TV
+#EXTINF:-1 tvg-name="ULKE TV" tvg-id="ULKE_TV" tvg-logo="https://hhdblog.github.io/TR/logo/ulke.png" group-title="HABER",ULKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVNET" tvg-language="Turkish" tvg-country="TR" tvg-id="TVNET" tvg-logo="https://hhdblog.github.io/TR/logo/tvnet.png" group-title="HABER",TVNET
+#EXTINF:-1 tvg-name="TVNET" tvg-id="TVNET" tvg-logo="https://hhdblog.github.io/TR/logo/tvnet.png" group-title="HABER",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BLOOMBERGHT" tvg-language="Turkish" tvg-country="TR" tvg-id="BLOOMBERGHT" tvg-logo="https://hhdblog.github.io/TR/logo/bloomberght.png" group-title="HABER",BLOOMBERGHT
+#EXTINF:-1 tvg-name="BLOOMBERGHT" tvg-id="BLOOMBERGHT" tvg-logo="https://hhdblog.github.io/TR/logo/bloomberght.png" group-title="HABER",BLOOMBERGHT
 https://ciner-live.ercdn.net/bloomberghtmobil/bloomberghtmobil.m3u8?e=1725317335&st=efQSU0mkvrlisB029UxGqQ&tv=1&ce=1
 
-#EXTINF:-1 tvg-name="EKOTÜRK" tvg-language="Turkish" tvg-country="TR" tvg-id="EKOTURK" tvg-logo="https://hhdblog.github.io/TR/logo/ekoturk.png" group-title="HABER",EKOTÜRK
+#EXTINF:-1 tvg-name="EKOTURK" tvg-id="EKOTURK" tvg-logo="https://hhdblog.github.io/TR/logo/ekoturk.png" group-title="HABER",EKOTURK
 https://cdn401.canlitv.team/ekoturktv.m3u8?tkn=CZOHk2PhMGXedSLGmWUo2A&tms=1725325012&hst=tv.canlitv.team&ip=188.132.189.187
 
-#EXTINF:-1 tvg-name="CNBC-E" tvg-language="Turkish" tvg-country="TR" tvg-id="CNBC_E" tvg-logo="https://hhdblog.github.io/TR/logo/cnbce.png" group-title="HABER",CNBC-E
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC_E" tvg-logo="https://hhdblog.github.io/TR/logo/cnbce.png" group-title="HABER",CNBC-E
 https://cnbc-e-live.ercdn.net/cnbce/cnbce_720p.m3u8?st=wt0K3JFFsnncK4ci84QIFQ&e=1725346894
 
 
 
 # * » SPOR « * #
 
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/trtspor.png" group-title="SPOR",TRT SPOR
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRT_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/trtspor.png" group-title="SPOR",TRT SPOR
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor
 
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_SPOR_YILDIZ" tvg-logo="https://hhdblog.github.io/TR/logo/trtsporyildiz.png" group-title="SPOR",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRT_SPOR_YILDIZ" tvg-logo="https://hhdblog.github.io/TR/logo/trtsporyildiz.png" group-title="SPOR",TRT SPOR YILDIZ
 https://trt.daioncdn.net/trtspor-yildiz/master_480p.m3u8?platform=trtspor&sid=6pjbsq8fpy2m&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2
 
-#EXTINF:-1 tvg-name="A SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="A_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/aspor.png" group-title="SPOR",A SPOR
+#EXTINF:-1 tvg-name="A SPOR" tvg-id="A_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/aspor.png" group-title="SPOR",A SPOR
 https://trt.daioncdn.net/trtspor-yildiz/master_480p.m3u8?platform=trtspor&sid=6pjbsq8fpy2m&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2
 
-#EXTINF:-1 tvg-name="BEIN SPORT HABER" tvg-language="Turkish" tvg-country="TR" tvg-id="BEIN_SPORT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/beinsporthaber.png" group-title="SPOR",BEIN SPORT HABER
+#EXTINF:-1 tvg-name="BEIN SPORT HABER" tvg-id="BEIN_SPORT_HABER" tvg-logo="https://hhdblog.github.io/TR/logo/beinsporthaber.png" group-title="SPOR",BEIN SPORT HABER
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 
-#EXTINF:-1 tvg-name="SPORTSTV" tvg-language="Turkish" tvg-country="TR" tvg-id="SPORTSTV" tvg-logo="https://hhdblog.github.io/TR/logo/sportstv.png" group-title="SPOR",SPORTSTV
+#EXTINF:-1 tvg-name="SPORTSTV" tvg-id="SPORTSTV" tvg-logo="https://hhdblog.github.io/TR/logo/sportstv.png" group-title="SPOR",SPORTSTV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
-#EXTINF:-1 tvg-name="TİVİBU SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TİVİBU_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/tivibuspor.png" group-title="SPOR",TİVİBU SPOR
+#EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-id="TIVIBU_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/tivibuspor.png" group-title="SPOR",TIVIBU SPOR
 https://ecanlitv3.etvserver.com/tvbu.m3u8?tkn=JBhLFxpLWaqsC3GtvBB68g&tms=1725379893
 
-#EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR" tvg-id="FB _TV" tvg-logo="https://hhdblog.github.io/TR/logo/fbtv.png" group-title="SPOR",FB TV
+#EXTINF:-1 tvg-name="FB TV" tvg-id="FB _TV" tvg-logo="https://hhdblog.github.io/TR/logo/fbtv.png" group-title="SPOR",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
 
 
 
 # * » CANLI MAC « * #
 
-#EXTINF:-1 tvg-name="S SPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="SSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="CANLI MAÇ",S SPORT 1
+#EXTINF:-1 tvg-name="S SPORT 1" tvg-id="SSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="CANLI MAÇ",S SPORT 1
 https://osaka.trgoalshls13.shop/yayinss.m3u8
 
-#EXTINF:-1 tvg-name="S SPORT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="SSPORT_2" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="CANLI MAÇ",S SPORT 2
+#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="SSPORT_2" tvg-logo="https://hhdblog.github.io/TR/logo/ssport.png" group-title="CANLI MAÇ",S SPORT 2
 https://osaka.trgoalshls13.shop/yayinss2.m3u8
 
-#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="EUROSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/eurosport1.png" group-title="CANLI MAÇ",EUROSPORT 1
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-id="EUROSPORT_1" tvg-logo="https://hhdblog.github.io/TR/logo/eurosport1.png" group-title="CANLI MAÇ",EUROSPORT 1
 https://osaka.trgoalshls13.shop/yayineu1.m3u8
 
-#EXTINF:-1 tvg-name="SELCUKSPORTS 1" tvg-language="Turkish" tvg-country="TR" tvg-id="SELCUKSPORTS_1" tvg-logo="https://hhdblog.github.io/TR/logo/selcuk.png" group-title="CANLI MAÇ",SELCUKSPORTS 1
+#EXTINF:-1 tvg-name="SELCUKSPORTS 1" tvg-id="SELCUKSPORTS_1" tvg-logo="https://hhdblog.github.io/TR/logo/selcuk.png" group-title="CANLI MAÇ",SELCUKSPORTS 1
 https://otto.19bc3725918b8e43.shop/selcuksports/www.selcuksportshd1329.xyz/601/playlist.m3u8
 
 
 
 # * » RADYOLAR « * #
 
-#EXTINF:-1 tvg-name="TRT FM" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_FM" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",TRT FM
+#EXTINF:-1 tvg-name="TRT FM" tvg-id="TRT_FM" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",TRT FM
 https://radio-trtfm.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="RADYO 7" tvg-language="Turkish" tvg-country="TR" tvg-id="RADYO_7" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",RADYO 7
+#EXTINF:-1 tvg-name="RADYO 7" tvg-id="RADYO_7" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",RADYO 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 
