@@ -123,7 +123,7 @@ http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-id="TIVIBU_SPOR" tvg-logo="https://hhdblog.github.io/TR/logo/tivibuspor.png" group-title="SPOR",TIVIBU SPOR
-https://ecanlitv3.etvserver.com/tvbu.m3u8?tkn=2M3AINEOYEMdYVp_osn_UA&tms=1725706382
+https://ecanlitv3.etvserver.com/tvbu.m3u8?tkn=Q6KNg8UIehDn9TzeJgEXlA&tms=1725719727
 
 #EXTINF:-1 tvg-name="FB TV" tvg-id="FB _TV" tvg-logo="https://hhdblog.github.io/TR/logo/fbtv.png" group-title="SPOR",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
