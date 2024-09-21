@@ -27,7 +27,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW" tvg-logo="https://hhdblog.github.io/TR/logo/now.png" group-title="GENEL",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1725328434&st=V_sAOVRBPKrLLS2aGG4u0g
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
 #EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BEYAZ_TV" tvg-logo="https://hhdblog.github.io/TR/logo/beyaz.png" group-title="GENEL",BEYAZ TV
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
