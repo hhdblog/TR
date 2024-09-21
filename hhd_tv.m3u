@@ -144,3 +144,6 @@ https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CANLI 1" tvg-id="CANLI_1" tvg-logo="https://hhdblog.github.io/TR/logo/live.png" group-title="CANLI",CANLI 1
 https://alpha.cf-worker-3ca7cdfeb6e8eef1.workers.dev/live/bein-sports-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CANLI 2" tvg-id="CANLI_2" tvg-logo="https://hhdblog.github.io/TR/logo/live.png" group-title="CANLI",CANLI 2
+https://l.trgoalshls31.shop/yayinss.m3u8
