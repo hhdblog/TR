@@ -49,7 +49,7 @@ http://stream.tvcdn.net/eglence/a2.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMAX" tvg-logo="https://hhdblog.github.io/TR/logo/dmax.png" group-title="BELGESEL",DMAX
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC" tvg-logo="https://hhdblog.github.io/TR/logo/tlc.png" group-title="BELGESEL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
@@ -68,7 +68,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
 #EXTINF:-1 tvg-name="HABERTURK" tvg-id="HABERTURK" tvg-logo="https://hhdblog.github.io/TR/logo/haberturk.png" group-title="HABER",HABERTURK
-http://stream.tvcdn.net/haber/haberturk.m3u8
+https://stream.tvcdn.net/haber/haberturk.m3u8
 
 #EXTINF:-1 tvg-name="CNNTURK" tvg-id="CNNTURK" tvg-logo="https://hhdblog.github.io/TR/logo/cnnturk.png" group-title="HABER",CNNTURK
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
