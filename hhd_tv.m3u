@@ -132,11 +132,14 @@ http://stream.tvcdn.net/spor/fb-tv.m3u8
 
 # * » RADYOLAR « * #
 
-#EXTINF:-1 tvg-name="TRT FM" tvg-id="TRT_FM" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",TRT FM
-https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/chunklist_w775924704_b128000.m3u8
-
 #EXTINF:-1 tvg-name="RADYO 7" tvg-id="RADYO_7" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",RADYO 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KRAL FM" tvg-id="KRAL_FM" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",KRAL FM
+https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/chunklist_w775924704_b128000.m3u8
+
+#EXTINF:-1 tvg-name="PAL NOSTALJİ" tvg-id="PAL_NOSTALJİ" tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" group-title="RADYO",PAL NOSTALJİ
+https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/chunklist_w775924704_b128000.m3u8
 
 
 
