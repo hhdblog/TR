@@ -1,19 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="90LAR_EDGE" group-title="RADYOLAR",90LAR [moonedge]
-https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="90LAR_MASTER" group-title="RADYOLAR",90LAR [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="90LAR" group-title="RADYOLAR",90'LAR
 https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="A_HABER_RADYO" group-title="RADYOLAR",A HABER RADYO
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="A_HABER_RADYO_EDGE" group-title="RADYOLAR",A HABER RADYO [moonedge]
-https://moondigitaledge.radyotvonline.net/ahaberradyo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="A_HABER_RADYO_MASTER" group-title="RADYOLAR",A HABER RADYO [moonmaster]
-https://moondigitalmaster.radyotvonline.net/ahaberradyo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="A_NEWS_RADYO" group-title="RADYOLAR",A NEWS RADYO
 https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
@@ -27,202 +18,100 @@ https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="AKRA_FM" group-title="RADYOLAR",AKRA FM
 https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="AKUSTIKLAND_EDGE" group-title="RADYOLAR",AKUSTIKLAND [moonedge]
-https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="AKUSTIKLAND_MASTER" group-title="RADYOLAR",AKUSTIKLAND [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="AKUSTIKLAND" group-title="RADYOLAR",AKUSTİKLAND
 https://moondigitalmaster.radyotvonline.net/akustikland/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ALEM_FM" group-title="RADYOLAR",ALEM FM
 https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ALEM_FM_EDGE" group-title="RADYOLAR",ALEM FM [moonedge]
-https://moondigitaledge.radyotvonline.net/alemfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ALEM_FM_MASTER" group-title="RADYOLAR",ALEM FM [moonmaster]
-https://moondigitalmaster.radyotvonline.net/alemfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ALTIN_SARKILAR_EDGE" group-title="RADYOLAR",ALTIN SARKILAR [moonedge]
-https://moondigitaledge.radyotvonline.net/altinsarkilar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ALTIN_SARKILAR_MASTER" group-title="RADYOLAR",ALTIN SARKILAR [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ALTIN_SARKILAR" group-title="RADYOLAR",ALTIN ŞARKILAR
 https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ANKARA_HAVALARI_EDGE" group-title="RADYOLAR",ANKARA HAVALARI [moonedge]
-https://moondigitaledge.radyotvonline.net/ankarahavalari/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ANKARA_HAVALARI_MASTER" group-title="RADYOLAR",ANKARA HAVALARI [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ANKARA_HAVALARI" group-title="RADYOLAR",ANKARA HAVALARI
 https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ARABESK_DAMAR_EDGE" group-title="RADYOLAR",ARABESK DAMAR [moonedge]
-https://moondigitaledge.radyotvonline.net/arabeskdamar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ARABESK_DAMAR_MASTER" group-title="RADYOLAR",ARABESK DAMAR [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ARABESK_DAMAR" group-title="RADYOLAR",ARABESK DAMAR
 https://moondigitalmaster.radyotvonline.net/arabeskdamar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ARABESK_FM_EDGE" group-title="RADYOLAR",ARABESK FM [moonedge]
-https://moondigitaledge.radyotvonline.net/arabeskfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ARABESK_FM_MASTER" group-title="RADYOLAR",ARABESK FM [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="ARABESK_FM" group-title="RADYOLAR",ARABESK FM
 https://moondigitalmaster.radyotvonline.net/arabeskfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="BEST_FM_EDGE" group-title="RADYOLAR",BEST FM [moonedge]
-https://moondigitaledge.radyotvonline.net/bestfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="BEST_FM_MASTER" group-title="RADYOLAR",BEST FM [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="BEST_FM" group-title="RADYOLAR",BEST FM
 https://moondigitalmaster.radyotvonline.net/bestfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="BORUSAN_KLASIK" group-title="RADYOLAR",BORUSAN KLASİK
 https://playerservices.streamtheworld.com/api/livestream-redirect/BORUSAN_KLASIK.mp3
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="CNN_TURK_RADYO_EDGE" group-title="RADYOLAR",CNN TURK RADYO [moonedge]
-https://moondigitaledge.radyotvonline.net/cnnturkradyo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="CNN_TURK_RADYO_MASTER" group-title="RADYOLAR",CNN TURK RADYO [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="CNN_TURK_RADYO" group-title="RADYOLAR",CNN TÜRK RADYO
 https://moondigitalmaster.radyotvonline.net/cnnturkradyo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="DOKSANLAR_EDGE" group-title="RADYOLAR",DOKSANLAR [moonedge]
-https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="DOKSANLAR_MASTER" group-title="RADYOLAR",DOKSANLAR [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="DOKSANLAR" group-title="RADYOLAR",DOKSANLAR
 https://moondigitalmaster.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="EFSANE_4LU_EDGE" group-title="RADYOLAR",EFSANE 4LU [moonedge]
-https://moondigitaledge.radyotvonline.net/efsane4lu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="EFSANE_4LU_MASTER" group-title="RADYOLAR",EFSANE 4LU [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="EFSANE_DORTLU" group-title="RADYOLAR",EFSANE DÖRTLÜ
 https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="JOY_FM_EDGE" group-title="RADYOLAR",JOY FM [moonedge]
-https://moondigitaledge.radyotvonline.net/joyfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="JOY_FM_MASTER" group-title="RADYOLAR",JOY FM [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="JOY_FM" group-title="RADYOLAR",JOY FM
 https://moondigitalmaster.radyotvonline.net/joyfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="JOY_TURK_EDGE" group-title="RADYOLAR",JOY TURK [moonedge]
-https://moondigitaledge.radyotvonline.net/joyturk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="JOY_TURK_MASTER" group-title="RADYOLAR",JOY TURK [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="JOY_TURK" group-title="RADYOLAR",JOY TÜRK
 https://moondigitalmaster.radyotvonline.net/joyturk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KARADENIZ_FM_EDGE" group-title="RADYOLAR",KARADENIZ FM [moonedge]
-https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KARADENIZ_FM_MASTER" group-title="RADYOLAR",KARADENIZ FM [moonmaster]
-https://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KARADENIZ_FM" group-title="RADYOLAR",KARADENİZ FM
 https://wowza1.radyotvonline.com/unitedmedia/karadenizfm.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KRAL_FM_EDGE" group-title="RADYOLAR",KRAL FM [moonedge]
-https://moondigitaledge.radyotvonline.net/kralfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KRAL_FM_MASTER" group-title="RADYOLAR",KRAL FM [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KRAL_FM" group-title="RADYOLAR",KRAL FM
 https://moondigitalmaster.radyotvonline.net/kralfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KRAL_POP_EDGE" group-title="RADYOLAR",KRAL POP [moonedge]
-https://moondigitaledge.radyotvonline.net/kralpop/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KRAL_POP_MASTER" group-title="RADYOLAR",KRAL POP [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KRAL_POP" group-title="RADYOLAR",KRAL POP
 https://moondigitalmaster.radyotvonline.net/kralpop/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="METRO_FM_EDGE" group-title="RADYOLAR",METRO FM [moonedge]
-https://moondigitaledge.radyotvonline.net/metrofm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="METRO_FM_MASTER" group-title="RADYOLAR",METRO FM [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="METRO_FM" group-title="RADYOLAR",METRO FM
 https://moondigitalmaster.radyotvonline.net/metrofm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="NTV_RADYO_EDGE" group-title="RADYOLAR",NTV RADYO [moonedge]
-https://moondigitaledge.radyotvonline.net/ntvradyo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="NTV_RADYO_MASTER" group-title="RADYOLAR",NTV RADYO [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="NTV_RADYO" group-title="RADYOLAR",NTV RADYO
 https://moondigitalmaster.radyotvonline.net/ntvradyo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="NUMBER_ONE_EDGE" group-title="RADYOLAR",NUMBER ONE [moonedge]
-https://moondigitaledge.radyotvonline.net/numberone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="NUMBER_ONE_MASTER" group-title="RADYOLAR",NUMBER ONE [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="NUMBER_ONE_FM" group-title="RADYOLAR",NUMBER ONE FM
 https://moondigitalmaster.radyotvonline.net/numberone/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_ALATURKA_EDGE" group-title="RADYOLAR",PAL ALATURKA [moonedge]
-https://moondigitaledge.radyotvonline.net/palalaturka/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_ALATURKA_MASTER" group-title="RADYOLAR",PAL ALATURKA [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_ALATURKA" group-title="RADYOLAR",PAL ALATURKA
 https://moondigitalmaster.radyotvonline.net/palalaturka/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_BESK_EDGE" group-title="RADYOLAR",PAL BESK [moonedge]
-https://moondigitaledge.radyotvonline.net/palabesk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_BESK_MASTER" group-title="RADYOLAR",PAL BESK [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_BESK" group-title="RADYOLAR",PAL BESK
 https://moondigitalmaster.radyotvonline.net/palabesk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_DOGA_EDGE" group-title="RADYOLAR",PAL DOĞA [moonedge]
-https://moondigitaledge.radyotvonline.net/paldoga/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_DOGA_MASTER" group-title="RADYOLAR",PAL DOĞA [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_DOGA" group-title="RADYOLAR",PAL DOĞA
 https://moondigitalmaster.radyotvonline.net/paldoga/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_FM_EDGE" group-title="RADYOLAR",PAL FM [moonedge]
-https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_FM_MASTER" group-title="RADYOLAR",PAL FM [moonmaster]
-https://moondigitalmaster.radyotvonline.net/palfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_FM" group-title="RADYOLAR",PAL FM [ssl4]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_FM" group-title="RADYOLAR",PAL FM
 https://ssl4.radyotvonline.com/radyohome/palfmhome.stream_aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_LEGEND_EDGE" group-title="RADYOLAR",PAL LEGEND [moonedge]
-https://moondigitaledge.radyotvonline.net/pallegend/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_LEGEND_MASTER" group-title="RADYOLAR",PAL LEGEND [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_LEGEND" group-title="RADYOLAR",PAL LEGEND
 https://moondigitalmaster.radyotvonline.net/pallegend/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_MINA_EDGE" group-title="RADYOLAR",PAL MINA [moonedge]
-https://moondigitaledge.radyotvonline.net/palmina/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_MINA_MASTER" group-title="RADYOLAR",PAL MINA [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_MINA" group-title="RADYOLAR",PAL MİNA
 https://moondigitalmaster.radyotvonline.net/palmina/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_NOSTALJI_EDGE" group-title="RADYOLAR",PAL NOSTALJİ [moonedge]
-https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_NOSTALJI_MASTER" group-title="RADYOLAR",PAL NOSTALJİ [moonmaster]
-https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_NOSTALJI" group-title="RADYOLAR",PAL NOSTALJİ
 https://ssl4.radyotvonline.com/radyohome/palnostaljihome.stream_aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_ORIENT_EDGE" group-title="RADYOLAR",PAL ORIENT [moonedge]
-https://moondigitaledge.radyotvonline.net/palorient/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_ORIENT_MASTER" group-title="RADYOLAR",PAL ORIENT [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_ORIENT" group-title="RADYOLAR",PAL ORIENT
 https://moondigitalmaster.radyotvonline.net/palorient/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_RABIA_EDGE" group-title="RADYOLAR",PAL RABIA [moonedge]
-https://moondigitaledge.radyotvonline.net/palrabia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_RABIA_MASTER" group-title="RADYOLAR",PAL RABIA [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_RABIA" group-title="RADYOLAR",PAL RABİA
 https://moondigitalmaster.radyotvonline.net/palrabia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_SLOW_EDGE" group-title="RADYOLAR",PAL SLOW [moonedge]
-https://moondigitaledge.radyotvonline.net/palslow/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_SLOW_MASTER" group-title="RADYOLAR",PAL SLOW [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="PAL_SLOW" group-title="RADYOLAR",PAL SLOW
 https://moondigitalmaster.radyotvonline.net/palslow/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="POWER_FM_EDGE" group-title="RADYOLAR",POWER FM [moonedge]
-https://moondigitaledge.radyotvonline.net/powerfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="POWER_FM_MASTER" group-title="RADYOLAR",POWER FM [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="POWER_FM" group-title="RADYOLAR",POWER FM
 https://moondigitalmaster.radyotvonline.net/powerfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="POWER_SMOOTH_JAZZ" group-title="RADYOLAR",POWER SMOOTH JAZZ
 https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="POWER_TURK_EDGE" group-title="RADYOLAR",POWER TURK [moonedge]
-https://moondigitaledge.radyotvonline.net/powerturk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="POWER_TURK_MASTER" group-title="RADYOLAR",POWER TURK [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="POWER_TURK" group-title="RADYOLAR",POWER TÜRK
 https://moondigitalmaster.radyotvonline.net/powerturk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="POWER_XL" group-title="RADYOLAR",POWER XL
@@ -234,122 +123,59 @@ https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlis
 #EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="POWERTURK_DANS" group-title="RADYOLAR",POWERTÜRK DANS
 https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_BEAT_EDGE" group-title="RADYOLAR",RADYO BEAT [moonedge]
-https://moondigitaledge.radyotvonline.net/radyobeat/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_BEAT_MASTER" group-title="RADYOLAR",RADYO BEAT [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_BEAT" group-title="RADYOLAR",RADYO BEAT
 https://moondigitalmaster.radyotvonline.net/radyobeat/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_BESIKTAS_EDGE" group-title="RADYOLAR",RADYO BESIKTAS [moonedge]
-https://moondigitaledge.radyotvonline.net/radyobesiktas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_BESIKTAS_MASTER" group-title="RADYOLAR",RADYO BESIKTAS [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_BESIKTAS" group-title="RADYOLAR",RADYO BEŞİKTAŞ
 https://moondigitalmaster.radyotvonline.net/radyobesiktas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_D_EDGE" group-title="RADYOLAR",RADYO D [moonedge]
-https://moondigitaledge.radyotvonline.net/radyod/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_D_MASTER" group-title="RADYOLAR",RADYO D [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_D" group-title="RADYOLAR",RADYO D
 https://moondigitalmaster.radyotvonline.net/radyod/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_FENERBAHCE_EDGE" group-title="RADYOLAR",RADYO FENERBAHCE [moonedge]
-https://moondigitaledge.radyotvonline.net/radyofenerbahce/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_FENERBAHCE_MASTER" group-title="RADYOLAR",RADYO FENERBAHCE [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_FENERBAHCE" group-title="RADYOLAR",RADYO FENERBAHÇE
 https://moondigitalmaster.radyotvonline.net/radyofenerbahce/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_GALATASARAY_EDGE" group-title="RADYOLAR",RADYO GALATASARAY [moonedge]
-https://moondigitaledge.radyotvonline.net/radyogalatasaray/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_GALATASARAY_MASTER" group-title="RADYOLAR",RADYO GALATASARAY [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_GALATASARAY" group-title="RADYOLAR",RADYO GALATASARAY
 https://moondigitalmaster.radyotvonline.net/radyogalatasaray/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_LAND_EDGE" group-title="RADYOLAR",RADYO LAND [moonedge]
-https://moondigitaledge.radyotvonline.net/radyoland/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_LAND_MASTER" group-title="RADYOLAR",RADYO LAND [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_LAND" group-title="RADYOLAR",RADYO LAND
 https://moondigitalmaster.radyotvonline.net/radyoland/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_ROMANTIK_EDGE" group-title="RADYOLAR",RADYO ROMANTIK [moonedge]
-https://moondigitaledge.radyotvonline.net/radyoromantik/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_ROMANTIK_MASTER" group-title="RADYOLAR",RADYO ROMANTIK [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_ROMANTIK" group-title="RADYOLAR",RADYO ROMANTİK
 https://moondigitalmaster.radyotvonline.net/radyoromantik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="SLOW_TURK_EDGE" group-title="RADYOLAR",SLOW TURK [moonedge]
-https://moondigitaledge.radyotvonline.net/slowturk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="SLOW_TURK_MASTER" group-title="RADYOLAR",SLOW TURK [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="SLOW_TURK" group-title="RADYOLAR",SLOW TÜRK
 https://moondigitalmaster.radyotvonline.net/slowturk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="SUPER_FM_EDGE" group-title="RADYOLAR",SUPER FM [moonedge]
-https://moondigitaledge.radyotvonline.net/superfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="SUPER_FM_MASTER" group-title="RADYOLAR",SUPER FM [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="SUPER_FM" group-title="RADYOLAR",SÜPER FM
 https://moondigitalmaster.radyotvonline.net/superfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_FM_EDGE" group-title="RADYOLAR",TRT FM [moonedge]
-https://moondigitaledge.radyotvonline.net/trtfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_FM_MASTER" group-title="RADYOLAR",TRT FM [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_FM" group-title="RADYOLAR",TRT FM
 https://moondigitalmaster.radyotvonline.net/trtfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_MUZIK_EDGE" group-title="RADYOLAR",TRT MUZIK [moonedge]
-https://moondigitaledge.radyotvonline.net/trtmuzik/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_MUZIK_MASTER" group-title="RADYOLAR",TRT MUZIK [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_MUZIK" group-title="RADYOLAR",TRT MÜZİK
 https://moondigitalmaster.radyotvonline.net/trtmuzik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_RADYO_1_EDGE" group-title="RADYOLAR",TRT RADYO 1 [moonedge]
-https://moondigitaledge.radyotvonline.net/trtradyo1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_RADYO_1_MASTER" group-title="RADYOLAR",TRT RADYO 1 [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_RADYO_1" group-title="RADYOLAR",TRT RADYO 1
 https://moondigitalmaster.radyotvonline.net/trtradyo1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_RADYO_2_EDGE" group-title="RADYOLAR",TRT RADYO 2 [moonedge]
-https://moondigitaledge.radyotvonline.net/trtradyo2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_RADYO_2_MASTER" group-title="RADYOLAR",TRT RADYO 2 [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_RADYO_2" group-title="RADYOLAR",TRT RADYO 2
 https://moondigitalmaster.radyotvonline.net/trtradyo2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_RADYO_3_EDGE" group-title="RADYOLAR",TRT RADYO 3 [moonedge]
-https://moondigitaledge.radyotvonline.net/trtradyo3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_RADYO_3_MASTER" group-title="RADYOLAR",TRT RADYO 3 [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_RADYO_3" group-title="RADYOLAR",TRT RADYO 3
 https://moondigitalmaster.radyotvonline.net/trtradyo3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_TURKU_EDGE" group-title="RADYOLAR",TRT TURKU [moonedge]
-https://moondigitaledge.radyotvonline.net/trtturku/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_TURKU_MASTER" group-title="RADYOLAR",TRT TURKU [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TRT_TURKU" group-title="RADYOLAR",TRT TÜRKÜ
 https://moondigitalmaster.radyotvonline.net/trtturku/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TURKU_DAMLA_EDGE" group-title="RADYOLAR",TURKU DAMLA [moonedge]
-https://moondigitaledge.radyotvonline.net/turkudamla/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TURKU_DAMLA_MASTER" group-title="RADYOLAR",TURKU DAMLA [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TURKU_DAMLA" group-title="RADYOLAR",TÜRKÜ DAMLA
 https://moondigitalmaster.radyotvonline.net/turkudamla/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TURKU_FM_EDGE" group-title="RADYOLAR",TURKU FM [moonedge]
-https://moondigitaledge.radyotvonline.net/turkufm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TURKU_FM_MASTER" group-title="RADYOLAR",TURKU FM [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="TURKU_FM" group-title="RADYOLAR",TÜRKÜ FM
 https://moondigitalmaster.radyotvonline.net/turkufm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="VIRGIN_RADIO_EDGE" group-title="RADYOLAR",VIRGIN RADIO [moonedge]
-https://moondigitaledge.radyotvonline.net/virginradio/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="VIRGIN_RADIO_MASTER" group-title="RADYOLAR",VIRGIN RADIO [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="VIRGIN_RADIO" group-title="RADYOLAR",VİRGİN RADIO
 https://moondigitalmaster.radyotvonline.net/virginradio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="VIRGIN_TURK_EDGE" group-title="RADYOLAR",VIRGIN TURK [moonedge]
-https://moondigitaledge.radyotvonline.net/virginturk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="VIRGIN_TURK_MASTER" group-title="RADYOLAR",VIRGIN TURK [moonmaster]
+#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="VIRGIN_TURK" group-title="RADYOLAR",VİRGİN TÜRK
 https://moondigitalmaster.radyotvonline.net/virginturk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="RADYO_7" group-title="RADYOLAR",RADYO 7
-https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hhdblog.github.io/TR/logo/radyo.png" tvg-id="KRAL_FM" group-title="RADYOLAR",KRAL FM
-https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/chunklist_w775924704_b128000.m3u8
